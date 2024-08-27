@@ -1,10 +1,8 @@
 Hi There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
-Computer Science Undergraduate
+I am a passionate Computer Science Undergraduate who is an enthusiast towards technical knowledge.
 -------------
-
-A passionate enthusiast towards technical knowledge.
 
 * 🌍  I'm based in Colombo, Sri Lanka
 * ✉️  You can contact me at [chamaldeshitha2001@gmail.com](mailto:chamaldeshitha2001@gmail.com)
