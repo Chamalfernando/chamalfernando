@@ -8,7 +8,7 @@ A passionate enthusiast towards technical knowledge.
 
 * 🌍  I'm based in Colombo, Sri Lanka
 * ✉️  You can contact me at [chamaldeshitha2001@gmail.com](mailto:chamaldeshitha2001@gmail.com)
-* 🧠  I'm learning Web Development, Agile Software Engineering Best Practices
+* 🧠  I'm learning Web Development,Mobile Application Development, Agile Software Engineering Best Practices.
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/Chamalfernando" target="_blank" rel="noreferrer"><img
