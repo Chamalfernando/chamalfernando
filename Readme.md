@@ -1,12 +1,12 @@
 Hi There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
-I am a passionate Computer Science Undergraduate who is an enthusiast towards technical knowledge and currently working as a Software Engineer Intern.
+A passionate Computer Science Graduate who is an enthusiast towards technical knowledge and currently working as an Associate software engineer.
 -------------
 
 * 🌍  I'm based in Colombo, Sri Lanka
 * ✉️  You can contact me at [chamaldeshitha2001@gmail.com](mailto:chamaldeshitha2001@gmail.com)
-* 🧠  I'm learning Full Stack Web Development, Agile Software Engineering Best Practices, and applying them to my projects.
+* 🧠  Have hands-on experience in Full Stack Web Development, Agile Software Engineering Best Practices, and applying them to my projects.
 * 🤝  I'm open to collaborating on interesting projects as well.
 
 <a href="https://www.github.com/Chamalfernando" target="_blank" rel="noreferrer">
