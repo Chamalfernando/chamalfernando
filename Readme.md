@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=180&section=header&text=Chamal%20Fernando&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Associate%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=56&descAlign=50" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=680&lines=Hi+there!+I'm+Chamal+Fernando+%F0%9F%91%8B;Computer+Science+Graduate+%40+UCSC;Full+Stack+Web+Developer;Angular+%7C+React+%7C+.NET+Expert;Mentor+%26+Tech+Enthusiast+%F0%9F%92%A1;Collaborative+Team+Player+%F0%9F%A4%9D;Agile+%26+Scrum+Practitioner;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=680&lines=Hi+there!+I'm+Chamal+Fernando+%F0%9F%91%8B;Computer+Science+Graduate+%40+UCSC;Full+Stack+Web+Developer;Angular+%7C+.NET+Lover;Mentor+%26+Tech+Enthusiast+%F0%9F%92%A1;Collaborative+Team+Player+%F0%9F%A4%9D;Agile+%26+Scrum+Practitioner;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -117,17 +117,17 @@ A passionate Computer Science Graduate from the **University of Colombo School o
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chamalfernando&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamalfernando&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" height="170"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Chamalfernando&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamalfernando&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" height="170"/> -->
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Chamalfernando&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chamalfernando&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamalfernando&bg_color=1c1917&color=ffffff&line=0891b2&point=0891b2&area=true&hide_border=true" alt="GitHub Activity Graph"/>
